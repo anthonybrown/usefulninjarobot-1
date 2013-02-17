@@ -1,6 +1,6 @@
  title    = 'A useful ninja robot';
  sub      = 'A JavaScriptcentic place to chat'
- pass     = '$tAr1967=007';
+ pass     = '$pass';
 /**
  * Module dependencies.
  */
